@@ -1,2 +1,8 @@
 # IP-Discovery-Python-CyberSec-Course
-As part of a course, I build a scanner using python and nmap. 
+
+This is an excersice for a ethical hacking course. This time, I used the help of ChatGPT to build it up, since I'm new to AI and not so experienced with python I took this chance to, not only learn about cyber security, but also how AI works and researching python is allways good.
+
+![gpt1](https://github.com/J-Agostino/IP-Discovery-Python-CyberSec-Course/assets/107634968/02d2aa39-fcdc-40f1-a54c-95c0251b6fe9)
+
+
+I have to say that it was a long process and ChatGPT 3 is not that clever some times, but we made it work.
